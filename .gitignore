@@ -1,0 +1,12 @@
+# build output
+build/
+*.exe
+*.zip
+
+# game files must never be committed
+*.iso
+*.packed
+*.bik
+EBOOT.BIN
+*.elf
+PS3_GAME/
