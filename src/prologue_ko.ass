@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Malgun Gothic,34,&H00FFFFFF,&H00FFFFFF,&H90000000,&H90000000,-1,0,0,0,100,100,0,0,3,8,0,2,60,60,46,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:04.80,Default,,0,0,0,,우리가 아는 세상은 투쟁 없이 존재하지 않는다.
+Dialogue: 0,0:00:04.80,0:00:10.50,Default,,0,0,0,,우리 문명은 한때 지옥의 권세라 불렀을 힘들의 끊임없는 공격을 받고 있다.
+Dialogue: 0,0:00:10.50,0:00:15.90,Default,,0,0,0,,사실 이 힘은 기독교보다 훨씬 더 오래되었고,
+Dialogue: 0,0:00:15.90,0:00:22.20,Default,,0,0,0,,인류의 영혼에 흔적을 남긴 그 어떤 종교보다도 오래되었다.
+Dialogue: 0,0:00:22.20,0:00:24.70,Default,,0,0,0,,그것은 악의 화신이다.
+Dialogue: 0,0:00:24.70,0:00:29.90,Default,,0,0,0,,그것은 우리의 가장 숭고한 열망을,
+Dialogue: 0,0:00:29.90,0:00:33.80,Default,,0,0,0,,사랑과 빛에 대한 믿음을 인류가 태어난 순간부터 무너뜨려 왔다.
+Dialogue: 0,0:00:33.80,0:00:36.60,Default,,0,0,0,,하지만 우리는 감히 이 악의 이름을 부르지 못한다.
+Dialogue: 0,0:00:36.60,0:00:41.60,Default,,0,0,0,,그 이름을 부르는 것은 이 악이 세상에 존재함을 인정하는 일이기 때문이다.
+Dialogue: 0,0:00:41.60,0:00:46.30,Default,,0,0,0,,그 하수인들이 우리와 같은 거리를 걷고 있으며,
+Dialogue: 0,0:00:46.30,0:00:53.30,Default,,0,0,0,,타락하고 부패한 채 우리의 살과 파멸에 굶주린 그 군주들이
+Dialogue: 0,0:00:53.30,0:01:00.60,Default,,0,0,0,,인류가 처형될 날을 기다리며 이 행성의 황무지에 숨어 있음을 인정하는 일이니까.
+Dialogue: 0,0:01:00.60,0:01:05.50,Default,,0,0,0,,우리와 완전한 죽음 사이를 가로막는 힘은 단 하나뿐이다.
+Dialogue: 0,0:01:05.50,0:01:11.20,Default,,0,0,0,,우리를 지키는 데 삶을 바친 전사 마법사들.
+Dialogue: 0,0:01:11.20,0:01:14.60,Default,,0,0,0,,우리 대부분은 그들의 이름을 결코 알지 못할 것이다.
+Dialogue: 0,0:01:14.60,0:01:18.60,Default,,0,0,0,,그들이 비밀 전쟁을 치르는 전장도 모를 것이며,
+Dialogue: 0,0:01:18.60,0:01:22.30,Default,,0,0,0,,그들의 전사자를 기리는 일도 없을 것이다.
+Dialogue: 0,0:01:22.30,0:01:25.30,Default,,0,0,0,,하지만 그들은 언제나 우리와 함께 있다.
+Dialogue: 0,0:01:25.30,0:01:31.00,Default,,0,0,0,,무장한 채, 경계하며, 또 다른 내일을 위해 죽을 각오로.
+Dialogue: 0,0:01:31.60,0:01:33.60,Default,,0,0,0,,제리코.
+Dialogue: 0,0:01:33.60,0:01:36.70,Default,,0,0,0,,그들은 제리코라 불린다.
+Dialogue: 0,0:01:36.70,0:01:40.70,Default,,0,0,0,,그들은 적이 무엇을 할 수 있는지 너무나 잘 알고 있다.
+Dialogue: 0,0:01:40.70,0:01:45.20,Default,,0,0,0,,인류가 멸망하기 전에, 우리는 미쳐 버릴 때까지 고문당하고
+Dialogue: 0,0:01:45.20,0:01:47.70,Default,,0,0,0,,산 채로 먹힐 것이다.
+Dialogue: 0,0:01:47.70,0:01:54.50,Default,,0,0,0,,그리고 그들은 그런 참극에서 우리를 지키기 위해 모든 힘을 다할 것이다.
+Dialogue: 0,0:01:54.50,0:01:57.70,Default,,0,0,0,,내일도 세상이 존재한다면,
+Dialogue: 0,0:01:57.70,0:02:01.40,Default,,0,0,0,,이제 당신은 그 이유를 안다.
+Dialogue: 0,0:02:01.40,0:02:05.00,Default,,0,0,0,,제리코.
